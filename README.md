@@ -1,5 +1,9 @@
 # ⚡ FlashGen Quantitative Optimizer
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-app-FF4B4B)
+![SciPy](https://img.shields.io/badge/SciPy-optimization-8CAAE6)
+
 ### 📊 Project Overview
 FlashGen is a Python-based financial modeling tool designed to solve the asset allocation problem using **Modern Portfolio Theory (MPT)**. It mathematically optimizes stock portfolios to maximize the **Sharpe Ratio** (risk-adjusted return) and proves performance against the **S&P 500 benchmark**.
 
